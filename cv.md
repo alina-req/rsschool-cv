@@ -7,13 +7,13 @@
 ### Primary Skills:
 * Front End: JavaScript
 ## Education
-Name of the Education Establishment: Institute of Contemporary Knowledge
+**Name of the Education Establishment:** Institute of Contemporary Knowledge
 
-Faculty/College: Art
+**Faculty/College:** Art
 
-Degree (diploma): Bachelor
+**Degree (diploma):** Bachelor
 
 ## Contact information:
-Phone: +375 29 669 23 42
+**Phone:** +375 29 669 23 42
 
-Email: alinakhrysto@gmail.com
+**Email:** alinakhrysto@gmail.com
