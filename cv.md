@@ -52,3 +52,8 @@ function getDecimal(n){
 + **Department:** design
 
 *********
+
+## Language:
+
++ **English:** B1 
++ **Russian:** Native 
