@@ -29,3 +29,31 @@ I have 9 years of experience in graphic design. I am organized, inquisitive, and
 + Adobe After Effects
 
 *********
+
+## Code Example
+
+```
+function getDecimal(n){
+  return Math.abs(n%1);
+}
+```
+*********
+
+## Experience
+
++ **RS Schools Course «JavaScript/Front-end. Stage 0»** (in progress)
+
+*********
+
+
+## Education
++ **University:** Institute of Modern Knowledge
++ **Faculty:** Arts
++ **Department:** design
+
+*********
+
+## Language:
+
++ **English:** B1 
++ **Russian:** Native 
