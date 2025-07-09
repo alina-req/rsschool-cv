@@ -1,0 +1,156 @@
+@font-face {
+    font-family: Roboto;
+    src: url("./assets/fonts/Roboto-Regular.ttf");
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: Roboto;
+    src: url("./assets/fonts/Roboto-Bold.ttf");
+    font-weight: 700;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: 'Roboto';
+    font-weight: 400;
+  }
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    align-items: center;
+    
+}
+.nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+  
+  }
+  
+
+
+  .section-title {
+    font-size: 28px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+  }
+  .section-subtitle {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+  }
+  .nav-link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+  }
+  
+  .nav-link:hover {
+    color: #5d7260;
+  }
+  .img{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+  }
+
+  .div-main{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 100px 350px 100px 350px;
+  }
+
+  .section-titles{
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #313e33;
+  }
+  .create-line {
+    width: 300px;
+    border-top: 3px solid #5d7260;
+  }
+.summary{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.summary_txt{
+    width: 400px;
+}
+.profile{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   justify-content: center;
+   grid-column-gap: 200px;
+   padding: 0 400px 0 400px;
+}
+
+.one{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+}
+
+.img_git{
+  width: 50px;
+}
+
+.rss_img{
+  width: 100px;
+}
+
+.footer_iteem{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #829985;
+  margin-top: 50px;
+}
+
+.footer_txt{
+color: #ffffff;
+}
+
+.link_p{
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #4d2323;
+}
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  
